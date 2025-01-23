@@ -36,11 +36,17 @@ sta   | je      |   ovo |
 
 [link na licensu](LICENSE.md)
 
-Naslov projekta (H1) – Dodajte naslov "ATP Kolokvij".
-Kratki opis projekta (H2) – Preuzmite tekst od 2-3 rečenice s Wikipedije.
-Slika – Preuzmite sliku s Pexels i umetnite je u dokumentaciju.
-Primjer koda – Preuzmite mali isječak koda s Gists i dodajte ga kao kodni blok.
-Linkovi – Dodajte linkove na izvore slike i teksta koje ste koristili. 
-Popis – Napravite jedan numerički i jedan ne-numerički popis vezan za projekt.
-Tablica – Izradite kratku tablicu koja sadrži informacije o projektu (npr. naziv, verzija, autor).
+Kreirati GitHub repozitorij nazvan atp-kolokvij
+Dodati naslov projekta (H1)
+Dodati kratki opis projekta (H2) – preuzeti tekst s Wikipedije
+Dodati sliku – preuzeti s Unsplash ili Pexels
+Dodati primjer koda – preuzeti s Gists
+Dodati link na izvor slike i teksta
+Linkati README.md i LICENSE.md (obostrano)
+Napraviti popis (numerički i ne-numerički)
+Izraditi kratku tablicu s informacijama o projektu
+Napraviti commit promjena s odgovarajućom porukom
+Otvoriti pull request unutar vlastitog repozitorija
+Dodati LICENSE.md datoteku s MIT licencom
+Aktivirati GitHub Pages za repozitorij
 
