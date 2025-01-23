@@ -34,7 +34,7 @@ naziv | verzija | autor |
 ------|---------|-------|
 sta   | je      |   ovo |
 
-
+[link](LICENSE.md)
 
 Naslov projekta (H1) – Dodajte naslov "ATP Kolokvij".
 Kratki opis projekta (H2) – Preuzmite tekst od 2-3 rečenice s Wikipedije.
